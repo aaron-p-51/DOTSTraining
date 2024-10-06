@@ -30,11 +30,11 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Projectile
+  - Enemy
+  - Path
+  - Tower
   - Terrain
   - Input
   m_SortingLayers:
